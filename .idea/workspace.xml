@@ -2,6 +2,53 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="71c969b0-0a87-4cec-b567-a9a3ea80beed" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/images/FClip.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/holicity.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/lipread.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/teaser.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/3DSP_siggraphAsia2013.bib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Anderson2016.bib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/ArbelaezCVPR2014.bib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/B3DO_ICCV_2011.bib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/BarronCVPR2015.bib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/BarronCVPR2019.bib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/BarronCVPR2019_reviews.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/BarronECCV2020.bib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/BarronICCV2013.bib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/BarronICCV2015.bib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/BarronMalikCVPR2011.bib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/BarronMalikCVPR2012.bib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/BarronMalikCVPR2013.bib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/BarronMalikECCV2012.bib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/BarronMalikTPAMI2015.bib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/BarronMalikTPAMI2015B.bib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/BarronPRL2009.bib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/BarronPooleECCV2016.bib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/BarronPooleECCV2016_reviews.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/BarronTR2010.bib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/BarronTsaiCVPR2017.bib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/BrooksBarronCVPR2019.bib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/BrooksCVPR2019.bib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Chen2016.bib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Diverdi2016.bib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/GargICCV2019.bib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/GharbiSIGGRAPH2017.bib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Hasinoff2016.bib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/JonBarron-CV.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/KarschCVPR2013.bib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Mildenhall2018.bib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/PeterTong-classes.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Peter_Tong_Resume.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/PontTusetTPAMI2017.bib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Shelhamer2015.bib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Srinivasan2018.bib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/SrinivasanCVPR2019.bib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/SunSIGGRAPH2019.bib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Valentin2018.bib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Wadhwa2018.bib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/ieee_fullfirstname.bst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/why_did_this_paper_come_out_in_2015.txt" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -12,24 +59,34 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/data/Chen2016.bib">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="922">
-              <caret line="81" column="8" selection-start-line="81" selection-start-column="8" selection-end-line="81" selection-end-column="8" />
+            <state relative-caret-position="528">
+              <caret line="148" column="43" selection-start-line="148" selection-start-column="43" selection-end-line="148" selection-end-column="43" />
               <folding>
                 <element signature="n#style#0;n#table#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#p#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#p#1;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#p#2;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#table#1;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#td#0;n#tr#0;n#tbody#0;n#table#1;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#table#2;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#td#0;n#tr#0;n#tbody#0;n#table#2;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#td#0;n#tr#2;n#tbody#0;n#table#2;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#td#0;n#tr#3;n#tbody#0;n#table#2;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#td#0;n#tr#4;n#tbody#0;n#table#2;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#td#0;n#tr#5;n#tbody#0;n#table#2;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#td#0;n#tr#6;n#tbody#0;n#table#2;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
             </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mipnerf360/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1174" />
           </provider>
         </entry>
       </file>
@@ -78,8 +135,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-1963" />
-    <option name="y" value="62" />
+    <option name="x" value="-1914" />
+    <option name="y" value="48" />
     <option name="width" value="1932" />
     <option name="height" value="840" />
   </component>
@@ -98,7 +155,7 @@
             <path>
               <item name="Delay-Xili.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="Delay-Xili.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="mipnerf360" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -114,6 +171,9 @@
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/images" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/images" />
       <recent name="$PROJECT_DIR$" />
@@ -142,22 +202,21 @@
       <option name="presentableId" value="Default" />
       <updated>1607506635045</updated>
       <workItem from="1607506636484" duration="2096000" />
-      <workItem from="1646538813581" duration="2826000" />
+      <workItem from="1646538813581" duration="8349000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4922000" />
+    <option name="totallyTimeSpent" value="10445000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1963" y="62" width="1932" height="840" extended-state="0" />
-    <editor active="true" />
+    <frame x="-1914" y="48" width="1932" height="840" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21005291" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12910053" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32965517" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
@@ -241,16 +300,29 @@
     <entry file="file://$PROJECT_DIR$/mipnerf/index.html">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/mipnerf360/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1174" />
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="922">
-          <caret line="81" column="8" selection-start-line="81" selection-start-column="8" selection-end-line="81" selection-end-column="8" />
+        <state relative-caret-position="528">
+          <caret line="148" column="43" selection-start-line="148" selection-start-column="43" selection-end-line="148" selection-end-column="43" />
           <folding>
             <element signature="n#style#0;n#table#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#1;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#2;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#table#1;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#td#0;n#tr#0;n#tbody#0;n#table#1;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#table#2;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#td#0;n#tr#0;n#tbody#0;n#table#2;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#0;n#tr#2;n#tbody#0;n#table#2;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#0;n#tr#3;n#tbody#0;n#table#2;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#0;n#tr#4;n#tbody#0;n#table#2;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#0;n#tr#5;n#tbody#0;n#table#2;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#0;n#tr#6;n#tbody#0;n#table#2;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
